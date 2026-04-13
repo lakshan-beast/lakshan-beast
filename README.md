@@ -30,6 +30,14 @@
 <a href="https://instagram.com/lakshan-beast"><img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
+--- ### 🌐 Connect with Me 
+<p align="center"> 
+  <a href="https://linkedin.comේ_username"><img src="https://shields.io""")/>>
+  </a> <a href="https://x.comේ_username"><img src="https://shields.io""")/>></a> 
+  <a href="https://facebook.comේ_username"><img src="https://shields.io""")/>></a> 
+  <a href="mailto:ඔබේ_email@gmail.com"><img src="https://shields.io""")/>></a> 
+</p>
+
 ---
 
 ### 🧠 Tech Stack
