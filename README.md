@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=lakshan-beast&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -25,9 +25,9 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-<a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://twitter.com/lakshan-beast"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://linkedin.com/in/lakshan-beast"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/lakshan-beast"><img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
@@ -43,8 +43,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshan-beast&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshan-beast&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -52,7 +52,7 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=lakshan-beast&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
