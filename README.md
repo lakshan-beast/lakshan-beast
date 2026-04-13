@@ -25,10 +25,18 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-<a href="https://x.com/lakshan_"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://linkedin.com/in/lakshan-beast"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/lakshan-beast"><img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:lakshansandeepa0305@gmail.com"><img src="https://shields.io""")/>></a> 
+<a href="https://x.com/lakshan_">
+  <img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/lakshan-beast">
+  <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://instagram.com/lakshan-beast">
+  <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="mailto:lakshansandeepa0305@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -60,15 +68,37 @@
 
 ### 🚀 Featured Projects
 
+🔹 Educa Advance Learning Platform
 🔹 **Educa Advance Learning Platform**  
 ✨ Short clean description  
-🔗 [Live Demo](https://lakshan-beast.github.io/Educa-Advance-Learning-Platform/) | 💻 [Code](https://lakshan-beast.github.io/Educa-Advance-Learning-Platform/)  
+🔗 [Live Demo](https://lakshan-beast.github.io/Educa-Advance-Learning-Platform/) | 💻 [Code](https://github.com/lakshan-beast/Educa-Advance-Learning-Platform)
 
 🔹 **Project Name**  
 ✨ Short clean description  
 🔗 Live Demo | 💻 Code  
 
+### 🚀 Educa Advance Learning Platform
+
+![Preview](https://via.placeholder.com/800x400)
+
+✨ Modern learning UI with interactive components  
+🔗 [Live Demo](https://lakshan-beast.github.io/Educa-Advance-Learning-Platform/)  
+💻 [Source Code](https://github.com/lakshan-beast/Educa-Advance-Learning-Platform)
+
 ---
+
+### ⚡ Currently Working On
+
+- 🚀 Building **AgriPluse.lk**
+- 📚 Learning **Advanced JavaScript**
+- 🎯 Improving **UI/UX Skills**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=header"/>
+![Snake animation](https://github.com/lakshan-beast/lakshan-beast/blob/output/github-contribution-grid-snake.svg)
+
+
+### 🧰 Tools
+
+![Tools](https://skillicons.dev/icons?i=vscode,figma,photoshop,git,github)
 
 ### 🎯 Focus
 
