@@ -127,7 +127,7 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=180&width=100%&section=header&text=Lakshan%20Sandeepa&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=220&width=100%&section=header&text=Lakshan%20Sandeepa&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;UI%2FUX+Designer;Creative+Thinker;Building+Modern+Web+Apps;Always+Learning+New+Things" />
@@ -243,14 +243,14 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=220&section=footer"/> 
 
 
 
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=180&section=header&text=Lakshan%20Sandeepa&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=220&section=header&text=Lakshan%20Sandeepa&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;UI%2FUX+Designer;Creative+Thinker;Building+Modern+Web+Apps;Always+Learning+New+Things" />
@@ -356,4 +356,4 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=220&section=footer"/>
