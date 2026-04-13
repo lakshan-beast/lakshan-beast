@@ -18,7 +18,7 @@
 - 💡 I build **modern, responsive & interactive websites**
 - ⚡ Focused on **clean UI + smooth UX**
 - 🌱 Learning **Advanced JavaScript & React**
-- 🎯 Goal: Become a **top-level frontend engineer**
+- 🎯 Goal: Become a **Top-level Frontend Engineer**
 
 ---
 
@@ -60,9 +60,9 @@
 
 ### 🚀 Featured Projects
 
-🔹 **Project Name**  
+🔹 **Educa Advance Learning Platform**  
 ✨ Short clean description  
-🔗 Live Demo | 💻 Code  
+🔗 [Live Demo](https://lakshan-beast.github.io/Educa-Advance-Learning-Platform/) | 💻 [Code](https://lakshan-beast.github.io/Educa-Advance-Learning-Platform/)  
 
 🔹 **Project Name**  
 ✨ Short clean description  
