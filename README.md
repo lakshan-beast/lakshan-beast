@@ -32,10 +32,10 @@
 
 --- ### 🌐 Connect with Me 
 <p align="center"> 
-  <a href="https://linkedin.comේ_username"><img src="https://shields.io""")/>>
-  </a> <a href="https://x.comේ_username"><img src="https://shields.io""")/>></a> 
+  <a href="https://linkedin.comේ_username"><img src="https://shields.io""")/>></a> 
+  <a href="https://x.comේ_username"><img src="https://shields.io""")/>></a> 
   <a href="https://facebook.comේ_username"><img src="https://shields.io""")/>></a> 
-  <a href="mailto:ඔබේ_email@gmail.com"><img src="https://shields.io""")/>></a> 
+  <a href="mailto:lakshansandeepa0305@gmail.com"><img src="https://shields.io""")/>></a> 
 </p>
 
 ---
