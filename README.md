@@ -107,8 +107,8 @@
 
 ---
 
-<h3 align="center">⭐ Star your favorite repositories and support!</h3> -->
+<h3 align="center">⭐ Star your favorite repositories and support!</h3>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=220&section=footer&text=Design%is%not%just%what%it%looks%like%—%it's%how%it%works.&fontSize=20&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=220&section=footer&text=Design%20is%20not%20just%20what%20it%20looks%20like%20—%20it's%20how%20it%20works.&fontSize=20&fontColor=ffffff&animation=fadeIn"/>
