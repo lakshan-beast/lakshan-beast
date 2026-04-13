@@ -1,4 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=header"/>
 <h1 align="center">Hi 👋, I'm Lakshan Sandeepa</h1>
+![Snake animation](https://github.com/lakshan-beast/lakshan-beast/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;UI%2FUX+Designer;Creative+Thinker;Building+Modern+Web+Apps;Always+Learning+New+Things" />
@@ -92,8 +94,6 @@
 - 🚀 Building **AgriPluse.lk**
 - 📚 Learning **Advanced JavaScript**
 - 🎯 Improving **UI/UX Skills**
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=header"/>
-![Snake animation](https://github.com/lakshan-beast/lakshan-beast/blob/output/github-contribution-grid-snake.svg)
 
 
 ### 🧰 Tools
