@@ -25,17 +25,10 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-<a href="https://twitter.com/lakshan-beast"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://x.com/lakshan_"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://linkedin.com/in/lakshan-beast"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/lakshan-beast"><img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
---- ### 🌐 Connect with Me 
-<p align="center"> 
-  <a href="https://www.linkedin.com/in/lakshan-sandeepa"><img src="https://shields.io""")/>></a> 
-  <a href="https://x.comේ_username"><img src="https://shields.io""")/>></a> 
-  <a href="https://facebook.comේ_username"><img src="https://shields.io""")/>></a> 
-  <a href="mailto:lakshansandeepa0305@gmail.com"><img src="https://shields.io""")/>></a> 
+<a href="mailto:lakshansandeepa0305@gmail.com"><img src="https://shields.io""")/>></a> 
 </p>
 
 ---
