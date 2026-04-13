@@ -13,6 +13,7 @@
 ## 🚀 About Me
 
 <img align="right" height="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="center" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1penJjbjVlbWNhYTN5cDZoYzhrMXNsbmNzNHJ3ZnVyOXYzazAzZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🎨 Passionate **Frontend Developer**
 - 💡 I build **modern, responsive & interactive websites**
@@ -111,4 +112,4 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=220&section=footer&text=Design%20is%20not%20just%20what%20it%20looks%20like%20—%20it's%20how%20it%20works.&fontSize=20&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=220&section=footer&text=Design%20is%20not%20just%20what%20it%20looks%20like%20—%20it's%20how%20it%20works.&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
