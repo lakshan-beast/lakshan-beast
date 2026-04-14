@@ -10,6 +10,7 @@
 
 
 ---
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1penJjbjVlbWNhYTN5cDZoYzhrMXNsbmNzNHJ3ZnVyOXYzazAzZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## 🚀 About Me
 
@@ -21,7 +22,6 @@
 - 🌱 Learning **Advanced JavaScript & React**
 - 🎯 Goal: Become a **Top-level Frontend Engineer**
 
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1penJjbjVlbWNhYTN5cDZoYzhrMXNsbmNzNHJ3ZnVyOXYzazAzZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ---
 
