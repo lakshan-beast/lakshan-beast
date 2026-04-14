@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-<img align="right" height="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXl6OWlsdGMwdGJsZms0bWZ5Mmw3bHpiNXA4ZGR4N2lzd2N1NnJscCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXl6OWlsdGMwdGJsZms0bWZ5Mmw3bHpiNXA4ZGR4N2lzd2N1NnJscCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 - 🎨 Passionate **Frontend Developer**
 - 💡 I build **modern, responsive & interactive websites**
@@ -69,6 +69,12 @@
   <img src="https://streak-stats.demolab.com?user=lakshan-beast&theme=tokyonight&hide_border=true"/> 
   [![GitHub Streak](https://streak-stats.demolab.com?user=lakshan-beast&theme=radical&hide_border=true&border_radius=6.5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 ---
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/lakshan-beast/lakshan-beast/output/github-contribution-grid-snake.svg)
   -->
 
 ## 🔥 GitHub Streak
@@ -77,14 +83,6 @@
   <img src="https://streak-stats.demolab.com?user=lakshan-beast&theme=radical&hide_border=true&border_radius=6.5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&theme=tokyonight&hide_border=true"/>
   
 </p>
-
-
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/lakshan-beast/lakshan-beast/output/github-contribution-grid-snake.svg)
 
 ---
 
