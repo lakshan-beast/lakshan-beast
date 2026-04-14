@@ -40,7 +40,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,sass,react,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,sass,vscode,react,git,github" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 
 ### 🔥 Educa Advance Learning Platform
 
-![Preview](https://via.placeholder.com/800x400/0d1117/00F7FF?text=Educa+Project)
+ ![Preview](https://via.placeholder.com/800x400/0d1117/00F7FF?text=Educa+Project)
 
 ✨ Modern learning UI with interactive features
 🔗 [Live Demo](https://lakshan-beast.github.io/Educa-Advance-Learning-Platform/)
