@@ -84,7 +84,7 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/lakshan-beast/lakshan-beast/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/lakshan-beast/lakshan-beast/output/github-contribution-grid-snake.svg)****
 
 ---
 
