@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-<img align="right" height="330" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXl6OWlsdGMwdGJsZms0bWZ5Mmw3bHpiNXA4ZGR4N2lzd2N1NnJscCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" height="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXl6OWlsdGMwdGJsZms0bWZ5Mmw3bHpiNXA4ZGR4N2lzd2N1NnJscCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 - 🎨 Passionate **Frontend Developer**
 - 💡 I build **modern, responsive & interactive websites**
@@ -21,7 +21,7 @@
 - 🌱 Learning **Advanced JavaScript & React**
 - 🎯 Goal: Become a **Top-level Frontend Engineer**
 
-### 🎯 Focus
+### Focus
 
 - 🎨 UI/UX Design
 - 📱 Responsive Design
