@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 <!-- <img align="right" height="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>  -->
-<img align="right" height="250" src="[https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWd5NGVmdzQxczNib2YxNzVoeHFncnV0M2FqMnUzYTlneGZxdW16NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif)"/> 
+<img align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWd5NGVmdzQxczNib2YxNzVoeHFncnV0M2FqMnUzYTlneGZxdW16NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif"/> 
 
 
 - 🎨 Passionate **Frontend Developer**
