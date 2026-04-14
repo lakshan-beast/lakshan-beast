@@ -61,8 +61,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshan-beast&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshan-beast&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshan-beast&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&v=2" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshan-beast&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&v=2" height="180"/>
 </p>
 
 ---
