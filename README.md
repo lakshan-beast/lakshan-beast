@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-<img align="right" height="220" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXl6OWlsdGMwdGJsZms0bWZ5Mmw3bHpiNXA4ZGR4N2lzd2N1NnJscCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXl6OWlsdGMwdGJsZms0bWZ5Mmw3bHpiNXA4ZGR4N2lzd2N1NnJscCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 - 🎨 Passionate **Frontend Developer**
 - 💡 I build **modern, responsive & interactive websites**
@@ -21,7 +21,12 @@
 - 🌱 Learning **Advanced JavaScript & React**
 - 🎯 Goal: Become a **Top-level Frontend Engineer**
 
+### 🎯 Focus
 
+- 🎨 UI/UX Design
+- 📱 Responsive Design
+- ⚡ Performance
+- 🔥 Clean Code
 ---
 
 ## ⚡ Currently Working On
@@ -37,15 +42,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,sass,react,git,github,vscode" />
 </p>
-
----
-
-## 🎯 Focus
-
-- 🎨 UI/UX Design
-- 📱 Responsive Design
-- ⚡ Performance
-- 🔥 Clean Code
 
 ---
 
