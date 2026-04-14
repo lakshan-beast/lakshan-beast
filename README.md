@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-<!-- <img align="right" height="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/> -->
+<img align="right" height="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/> 
 
 - 🎨 Passionate **Frontend Developer**
 - 💡 I build **modern, responsive & interactive websites**
