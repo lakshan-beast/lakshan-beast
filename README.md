@@ -70,8 +70,11 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lakshan-beast&theme=tokyonight&hide_border=true"/>
+  <!-- <img src="https://streak-stats.demolab.com?user=lakshan-beast&theme=tokyonight&hide_border=true"/> -->
 </p>
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=lakshan-beast&theme=radical&hide_border=true&border_radius=6.5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+
 
 ---
 
@@ -84,8 +87,8 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://x.com/lakshan_">
-  <img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"/>
+<a href="https://github.com/lakshan-beast">
+  <img src="https://img.shields.io/badge/X (Twitter)-00acee?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/lakshan-beast">
   <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -109,4 +112,4 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=220&section=footer&text=Design%20is%20not%20just%20what%20it%20looks%20like%20—%20it's%20how%20it%20works.&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=200&section=footer&text=Design%20is%20not%20just%20what%20it%20looks%20like%20—%20it's%20how%20it%20works.&fontSize=30&fontColor=ffffff&animation=fadeUp"/>
