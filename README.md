@@ -57,6 +57,7 @@
 💻 [Source Code](https://github.com/lakshan-beast/Educa-Advance-Learning-Platform)
 
 ---
+  <!--
 
 ## 📊 GitHub Stats
 
@@ -65,14 +66,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshan-beast&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&v=2" height="180"/>
 </p>
 
+  <img src="https://streak-stats.demolab.com?user=lakshan-beast&theme=tokyonight&hide_border=true"/> 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=lakshan-beast&theme=radical&hide_border=true&border_radius=6.5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 ---
+  -->
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <!-- <img src="https://streak-stats.demolab.com?user=lakshan-beast&theme=tokyonight&hide_border=true"/> 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=lakshan-beast&theme=radical&hide_border=true&border_radius=6.5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
-  -->
   <img src="https://streak-stats.demolab.com?user=lakshan-beast&theme=radical&hide_border=true&border_radius=6.5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&theme=tokyonight&hide_border=true"/>
   
 </p>
