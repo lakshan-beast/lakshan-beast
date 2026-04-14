@@ -10,11 +10,13 @@
 
 
 ---
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1penJjbjVlbWNhYTN5cDZoYzhrMXNsbmNzNHJ3ZnVyOXYzazAzZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<!-- <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1penJjbjVlbWNhYTN5cDZoYzhrMXNsbmNzNHJ3ZnVyOXYzazAzZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/> -->
 
 ## 🚀 About Me
 
-<img align="right" height="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/> 
+<!-- <img align="right" height="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>  -->
+<img align="right" height="250" src="[https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWd5NGVmdzQxczNib2YxNzVoeHFncnV0M2FqMnUzYTlneGZxdW16NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif)"/> 
+
 
 - 🎨 Passionate **Frontend Developer**
 - 💡 I build **modern, responsive & interactive websites**
