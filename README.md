@@ -7,8 +7,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lakshan-beast&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
-
 ---
 
 ## 🚀 About Me
@@ -81,7 +79,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lakshan-beast&theme=radical&hide_border=true&border_radius=6.5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&theme=tokyonight&hide_border=true"/>
-  
 </p>
 
 ---
