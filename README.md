@@ -22,7 +22,7 @@
 ### Focus
 
 - 🎨 UI/UX Design
-- 📱 Responsive Design
+- 📱  Responsive Design
 - ⚡ Performance
 - 🔥 Clean Code
 ---
@@ -123,15 +123,15 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/lakshan-beast">
-  <img src="https://img.shields.io/badge/X (Twitter)-00acee?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/lakshan-beast">
-  <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:lakshansandeepa0305@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://github.com/lakshan-beast">
+    <img src="https://img.shields.io/badge/X (Twitter)-00acee?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/lakshan-beast">
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:lakshansandeepa0305@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
