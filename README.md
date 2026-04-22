@@ -45,11 +45,17 @@
 
 ## 🚀 Featured Projects
 
-### 🔥 Educa Advance Learning Platform
+### 🔥 My Frontend Projects
+
+💻 [Source Code](https://github.com/lakshan-beast/Educa-Advance-Learning-Platform)
+
+---
+
+### 🔥 Info.lanka 
 
  ![Preview](https://via.placeholder.com/800x400/0d1117/00F7FF?text=Educa+Project)
 
-✨ Modern learning UI with interactive features
+
 🔗 [Live Demo](https://lakshan-beast.github.io/Educa-Advance-Learning-Platform/)
 
 💻 [Source Code](https://github.com/lakshan-beast/Educa-Advance-Learning-Platform)
@@ -61,28 +67,29 @@
  ![Preview](https://via.placeholder.com/800x400/0d1117/00F7FF?text=Educa+Project)
 
 ✨ Modern learning UI with interactive features
+
 🔗 [Live Demo](https://lakshan-beast.github.io/Educa-Advance-Learning-Platform/)
 
 💻 [Source Code](https://github.com/lakshan-beast/Educa-Advance-Learning-Platform)
 
 ---
 
-### 🔥 Educa Advance Learning Platform
+### 🔥 Zestara
 
  ![Preview](https://via.placeholder.com/800x400/0d1117/00F7FF?text=Educa+Project)
 
-✨ Modern learning UI with interactive features
+✨ React E-Commerce Website 
+
 🔗 [Live Demo](https://lakshan-beast.github.io/Educa-Advance-Learning-Platform/)
 
 💻 [Source Code](https://github.com/lakshan-beast/Educa-Advance-Learning-Platform)
 
 ---
 
-### 🔥 Educa Advance Learning Platform
+### 🔥 My Portfolio
 
  ![Preview](https://via.placeholder.com/800x400/0d1117/00F7FF?text=Educa+Project)
 
-✨ Modern learning UI with interactive features
 🔗 [Live Demo](https://lakshan-beast.github.io/Educa-Advance-Learning-Platform/)
 
 💻 [Source Code](https://github.com/lakshan-beast/Educa-Advance-Learning-Platform)
