@@ -47,7 +47,7 @@
 
 ### 🔥 My Frontend Projects
 
-💻 [Source Code](https://github.com/lakshan-beast/My-Frontend-Projects-Lab)
+🔗 [Source Code](https://github.com/lakshan-beast/My-Frontend-Projects-Lab)
 
 ---
 
@@ -68,8 +68,8 @@
 
 ✨ Modern learning UI with interactive features
 
-🔗 [Live Demo](https://lakshan-beast.github.io/Educa-Advance-Learning-Platform/)
-💻 [Source Code](https://github.com/lakshan-beast/Educa-Advance-Learning-Platform)
+💻 [Live Demo](https://lakshan-beast.github.io/Educa-Advance-Learning-Platform/)
+🔗 [Source Code](https://github.com/lakshan-beast/Educa-Advance-Learning-Platform)
 
 ---
 
@@ -88,8 +88,8 @@
 ### 🔥 My Portfolio
 
  <!--![Preview](https://via.placeholder.com/800x400/0d1117/00F7FF?text=Educa+Project)-->
-🔗 [Live Demo](https://lakshan-beast.github.io/Educa-Advance-Learning-Platform/)
-💻 [Source Code](https://github.com/lakshan-beast/My-Portfolio)
+💻 [Live Demo](https://lakshan-beast.github.io/Educa-Advance-Learning-Platform/)
+🔗 [Source Code](https://github.com/lakshan-beast/My-Portfolio)
 
 ---
   <!--
