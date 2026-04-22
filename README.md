@@ -47,7 +47,7 @@
 
 ### 🔥 My Frontend Projects
 
-💻 [Source Code](https://github.com/lakshan-beast/Educa-Advance-Learning-Platform)
+💻 [Source Code](https://github.com/lakshan-beast/My-Frontend-Projects-Lab)
 
 ---
 
@@ -56,7 +56,7 @@
  ![Preview](https://via.placeholder.com/800x400/0d1117/00F7FF?text=Educa+Project)
 
 
-🔗 [Live Demo](https://lakshan-beast.github.io/Educa-Advance-Learning-Platform/)
+🔗 [Live Demo](https://github.com/lakshan-beast/info.lanka)
 
 💻 [Source Code](https://github.com/lakshan-beast/Educa-Advance-Learning-Platform)
 
@@ -80,9 +80,9 @@
 
 ✨ React E-Commerce Website 
 
-🔗 [Live Demo](https://lakshan-beast.github.io/Educa-Advance-Learning-Platform/)
+💻 [Live Demo](https://zestara.vercel.app/)
+🔗 [Source Code](https://github.com/lakshan-beast/Zestara)
 
-💻 [Source Code](https://github.com/lakshan-beast/Educa-Advance-Learning-Platform)
 
 ---
 
