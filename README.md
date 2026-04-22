@@ -53,30 +53,29 @@
 
 ### 🔥 Info.lanka 
 
- ![Preview](https://via.placeholder.com/800x400/0d1117/00F7FF?text=Educa+Project)
+ <!--![Preview](https://via.placeholder.com/800x400/0d1117/00F7FF?text=Educa+Project) -->
 
 
-🔗 [Live Demo](https://github.com/lakshan-beast/info.lanka)
+💻 [Live Demo](https://github.com/lakshan-beast/Educa-Advance-Learning-Platform)
+🔗 [Source Code](https://github.com/lakshan-beast/info.lanka)
 
-💻 [Source Code](https://github.com/lakshan-beast/Educa-Advance-Learning-Platform)
 
 ---
 
 ### 🔥 Educa Advance Learning Platform
 
- ![Preview](https://via.placeholder.com/800x400/0d1117/00F7FF?text=Educa+Project)
+ <!--![Preview](https://via.placeholder.com/800x400/0d1117/00F7FF?text=Educa+Project) -->
 
 ✨ Modern learning UI with interactive features
 
 🔗 [Live Demo](https://lakshan-beast.github.io/Educa-Advance-Learning-Platform/)
-
 💻 [Source Code](https://github.com/lakshan-beast/Educa-Advance-Learning-Platform)
 
 ---
 
 ### 🔥 Zestara
 
- ![Preview](https://via.placeholder.com/800x400/0d1117/00F7FF?text=Educa+Project)
+ <!--![Preview](https://via.placeholder.com/800x400/0d1117/00F7FF?text=Educa+Project)-->
 
 ✨ React E-Commerce Website 
 
@@ -88,11 +87,9 @@
 
 ### 🔥 My Portfolio
 
- ![Preview](https://via.placeholder.com/800x400/0d1117/00F7FF?text=Educa+Project)
-
+ <!--![Preview](https://via.placeholder.com/800x400/0d1117/00F7FF?text=Educa+Project)-->
 🔗 [Live Demo](https://lakshan-beast.github.io/Educa-Advance-Learning-Platform/)
-
-💻 [Source Code](https://github.com/lakshan-beast/Educa-Advance-Learning-Platform)
+💻 [Source Code](https://github.com/lakshan-beast/My-Portfolio)
 
 ---
   <!--
