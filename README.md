@@ -109,12 +109,13 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/lakshan-beast/lakshan-beast/output/github-contribution-grid-snake.svg) 
+<!--![Snake animation](https://raw.githubusercontent.com/lakshan-beast/lakshan-beast/output/github-contribution-grid-snake.svg) 
 
 
 ## 🐍 Contribution Snake
 ![Snake animation](https://raw.githubusercontent.com/lakshan-beast/lakshan-beast/output/github-contribution-grid-snake.svg) 
-![Snake animation](https://github.com) 
+![Snake animation](https://github.com) -->
+![Snake animation](https://githubusercontent.com)
 
 
 ## 🔥 GitHub Streak
