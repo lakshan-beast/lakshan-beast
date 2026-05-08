@@ -38,7 +38,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,sass,vscode,react,github,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,sass,vscode,react,github,git,firebase" />
 </p>
 
 ---
@@ -92,7 +92,7 @@
 🔗 [Source Code](https://github.com/lakshan-beast/My-Portfolio)
 
 ---
-  <!--
+<!--
 
 ## 📊 GitHub Stats
 
@@ -109,8 +109,8 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/lakshan-beast/lakshan-beast/output/github-contribution-grid-snake.svg)
-  -->
+![Snake animation](https://raw.githubusercontent.com/lakshan-beast/lakshan-beast/output/github-contribution-grid-snake.svg) -->
+
 
 ## 🔥 GitHub Streak
 
