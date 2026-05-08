@@ -103,18 +103,18 @@
 
   <img src="https://streak-stats.demolab.com?user=lakshan-beast&theme=tokyonight&hide_border=true"/> 
   [![GitHub Streak](https://streak-stats.demolab.com?user=lakshan-beast&theme=radical&hide_border=true&border_radius=6.5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
----
+--->
 
 ---
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/lakshan-beast/lakshan-beast/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://raw.githubusercontent.com/lakshan-beast/lakshan-beast/output/github-contribution-grid-snake.svg) 
 
 
 ## 🐍 Contribution Snake
-![Snake Animation](https://raw.githubusercontent.com/lakshan-beast/lakshan-beast/output/github-contribution-grid-snake.svg) 
-![Snake Animation](https://github.com) 
+![Snake animation](https://raw.githubusercontent.com/lakshan-beast/lakshan-beast/output/github-contribution-grid-snake.svg) 
+![Snake animation](https://github.com) 
 
 
 ## 🔥 GitHub Streak
