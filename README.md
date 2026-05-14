@@ -45,6 +45,15 @@
 
 ## 🚀 Featured Projects
 
+
+### 🔥 My Portfolio
+
+ <!--![Preview](https://via.placeholder.com/800x400/0d1117/00F7FF?text=Educa+Project)-->
+💻 [Live Demo](https://lakshan-sandeepa-dev.vercel.app/)
+🔗 [Source Code](https://github.com/lakshan-beast/My-Portfolio)
+
+---
+
 ### 🔥 My Frontend Projects
 
 🔗 [Source Code](https://github.com/lakshan-beast/My-Frontend-Projects-Lab)
@@ -56,8 +65,8 @@
  <!--![Preview](https://via.placeholder.com/800x400/0d1117/00F7FF?text=Educa+Project) -->
 
 
-💻 [Live Demo](https://github.com/lakshan-beast/Educa-Advance-Learning-Platform)
-🔗 [Source Code](https://github.com/lakshan-beast/info.lanka)
+💻 [Live Demo](https://info-lanka-project.vercel.app)
+🔗 [Source Code](https://github.com/lakshan-beast/info.lanka-Project)
 
 
 ---
@@ -68,7 +77,7 @@
 
 ✨ Modern learning UI with interactive features
 
-💻 [Live Demo](https://lakshan-beast.github.io/Educa-Advance-Learning-Platform/)
+💻 [Live Demo](https://educa-ol-learning-platform.vercel.app/)
 🔗 [Source Code](https://github.com/lakshan-beast/Educa-Advance-Learning-Platform)
 
 ---
@@ -85,13 +94,18 @@
 
 ---
 
-### 🔥 My Portfolio
+### 🔥 Dream Tracker
 
  <!--![Preview](https://via.placeholder.com/800x400/0d1117/00F7FF?text=Educa+Project)-->
-💻 [Live Demo](https://lakshan-beast.github.io/Educa-Advance-Learning-Platform/)
-🔗 [Source Code](https://github.com/lakshan-beast/My-Portfolio)
+
+✨ Academic Performance Tracker
+
+💻 [Live Demo](https://future-plan-six.vercel.app)
+🔗 [Source Code](https://github.com/lakshan-beast/Future-Plan")
+
 
 ---
+
 <!--
 
 ## 📊 GitHub Stats
@@ -107,16 +121,16 @@
 
 ---
 
-## 🐍 Contribution Snake
+<!--## 🐍 Contribution Snake
 
 <!--![Snake animation](https://raw.githubusercontent.com/lakshan-beast/lakshan-beast/output/github-contribution-grid-snake.svg) 
 
 
 ## 🐍 Contribution Snake
 ![Snake animation](https://raw.githubusercontent.com/lakshan-beast/lakshan-beast/output/github-contribution-grid-snake.svg) 
-![Snake animation](https://github.com) -->
+![Snake animation](https://github.com) 
 ![Snake animation](https://githubusercontent.com)
-![Snake animation](https://githubusercontent.com)
+![Snake animation](https://githubusercontent.com)-->
 
 
 ## 🔥 GitHub Streak
@@ -130,9 +144,9 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/lakshan-beast">
+  <!--<a href="https://github.com/lakshan-beast">
     <img src="https://img.shields.io/badge/X (Twitter)-00acee?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
+  </a>-->
   <a href="https://linkedin.com/in/lakshan-beast">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
