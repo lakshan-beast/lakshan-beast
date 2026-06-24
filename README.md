@@ -29,7 +29,7 @@
 
 ## ⚡ Currently Working On
 
-- 🚀 Building **Zestara | E-Commerce Website**
+- 🚀 Building **Educa | LMS Platform**
 - 🧠 Improving **JavaScript & React Skills**
 - 🎨 UI/UX Design Practice
 
@@ -38,7 +38,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,sass,vscode,react,github,git,firebase" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,react,github,sass,next,tailwind,firebase,typescript,git" />
 </p>
 
 ---
@@ -48,9 +48,9 @@
 
 ### 🔥 My Portfolio
 
- <!--![Preview](https://via.placeholder.com/800x400/0d1117/00F7FF?text=Educa+Project)-->
 💻 [Live Demo](https://lakshan-sandeepa-dev.vercel.app/)
-🔗 [Source Code](https://github.com/lakshan-beast/My-Portfolio)
+ <!--![Preview](https://via.placeholder.com/800x400/0d1117/00F7FF?text=Educa+Project)
+🔗 [Source Code](https://github.com/lakshan-beast/My-Portfolio)-->
 
 ---
 
@@ -66,42 +66,42 @@
 
 
 💻 [Live Demo](https://info-lanka-project.vercel.app)
-🔗 [Source Code](https://github.com/lakshan-beast/info.lanka-Project)
+<!--!🔗 [Source Code](https://github.com/lakshan-beast/info.lanka-Project)-->
 
 
 ---
 
 ### 🔥 Educa Advance Learning Platform
 
- <!--![Preview](https://via.placeholder.com/800x400/0d1117/00F7FF?text=Educa+Project) -->
+ <!--![Preview](https://via.placeholder.com/800x400/0d1117/00F7FF?text=Educa+Project)
 
-✨ Modern learning UI with interactive features
+✨ Modern learning UI with interactive features -->
 
-💻 [Live Demo](https://educa-ol-learning-platform.vercel.app/)
-🔗 [Source Code](https://github.com/lakshan-beast/Educa-Advance-Learning-Platform)
+💻 [Live Demo](https://educa-lms-platform.vercel.app/)
+<!--!🔗 [Source Code](https://github.com/lakshan-beast/Educa-Advance-Learning-Platform)-->
 
 ---
 
 ### 🔥 Zestara
 
- <!--![Preview](https://via.placeholder.com/800x400/0d1117/00F7FF?text=Educa+Project)-->
+ <!--![Preview](https://via.placeholder.com/800x400/0d1117/00F7FF?text=Educa+Project)
 
-✨ React E-Commerce Website 
+✨ React E-Commerce Website -->
 
 💻 [Live Demo](https://zestara.vercel.app/)
-🔗 [Source Code](https://github.com/lakshan-beast/Zestara)
+<!--!🔗 [Source Code](https://github.com/lakshan-beast/Zestara)-->
 
 
 ---
 
 ### 🔥 Dream Tracker
 
- <!--![Preview](https://via.placeholder.com/800x400/0d1117/00F7FF?text=Educa+Project)-->
+ <!--![Preview](https://via.placeholder.com/800x400/0d1117/00F7FF?text=Educa+Project)-
 
-✨ Academic Performance Tracker
+✨ Academic Performance Tracker-->
 
 💻 [Live Demo](https://future-plan-six.vercel.app)
-🔗 [Source Code](https://github.com/lakshan-beast/Future-Plan")
+<!--!🔗 [Source Code](https://github.com/lakshan-beast/Future-Plan")-->
 
 
 ---
