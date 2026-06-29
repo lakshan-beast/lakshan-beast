@@ -1,161 +1,97 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=220&section=header&text=Lakshan%20Sandeepa&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;UI%2FUX+Designer;Creative+Thinker;Building+Modern+Web+Apps;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer+%7C+SaaS+Engineer;UI%2FUX+Designer;Creative+Thinker;Building+Modern+Web+Apps;Specializing+in+React.js+%26+SCSS+Design;Building+Production-Grade+Web+Apps;Always+Learning+New+Things" />
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lakshan-beast&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=lakshan-beast&style=for-the-badge" alt="Profile views" />
 
+<img align="right" height="300" zIndex="99" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXl6OWlsdGMwdGJsZms0bWZ5Mmw3bHpiNXA4ZGR4N2lzd2N1NnJscCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-## 🚀 About Me
+<div align="left">
+    <h2>🚀 About Me</h2>
+    <p>I am a passionate Full-Stack Frontend Developer specializing in engineering scalable Web Applications and Production-Grade SaaS ecosystems. My expertise lies in architecting performance-optimized client-side structures, state-driven dynamic routing, and seamless real-time cloud data management handlers.</p>
+</div>
 
-<img align="right" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXl6OWlsdGMwdGJsZms0bWZ5Mmw3bHpiNXA4ZGR4N2lzd2N1NnJscCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-
-- 🎨 Passionate **Frontend Developer**
-- 💡 I build **modern, responsive & interactive websites**
-- ⚡ Focused on **clean UI + smooth UX**
-- 🌱 Learning **Advanced JavaScript & React**
-- 🎯 Goal: Become a **Top-level Frontend Engineer**
-
-### Focus
-
-- 🎨 UI/UX Design
-- 📱  Responsive Design
-- ⚡ Performance
-- 🔥 Clean Code
----
-
-## ⚡ Currently Working On
-
-- 🚀 Building **Educa | LMS Platform**
-- 🧠 Improving **JavaScript & React Skills**
-- 🎨 UI/UX Design Practice
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,react,github,sass,next,tailwind,firebase,typescript,git" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-
-### 🔥 My Portfolio
-
-💻 [Live Demo](https://lakshan-sandeepa-dev.vercel.app/)
- <!--![Preview](https://via.placeholder.com/800x400/0d1117/00F7FF?text=Educa+Project)
-🔗 [Source Code](https://github.com/lakshan-beast/My-Portfolio)-->
-
----
-
-### 🔥 My Frontend Projects
-
-🔗 [Source Code](https://github.com/lakshan-beast/My-Frontend-Projects-Lab)
-
----
-
-### 🔥 Info.lanka 
-
- <!--![Preview](https://via.placeholder.com/800x400/0d1117/00F7FF?text=Educa+Project) -->
-
-
-💻 [Live Demo](https://info-lanka-project.vercel.app)
-<!--!🔗 [Source Code](https://github.com/lakshan-beast/info.lanka-Project)-->
-
-
----
-
-### 🔥 Educa Advance Learning Platform
-
- <!--![Preview](https://via.placeholder.com/800x400/0d1117/00F7FF?text=Educa+Project)
-
-✨ Modern learning UI with interactive features -->
-
-💻 [Live Demo](https://educa-lms-platform.vercel.app/)
-<!--!🔗 [Source Code](https://github.com/lakshan-beast/Educa-Advance-Learning-Platform)-->
-
----
-
-### 🔥 Zestara
-
- <!--![Preview](https://via.placeholder.com/800x400/0d1117/00F7FF?text=Educa+Project)
-
-✨ React E-Commerce Website -->
-
-💻 [Live Demo](https://zestara.vercel.app/)
-<!--!🔗 [Source Code](https://github.com/lakshan-beast/Zestara)-->
-
-
----
-
-### 🔥 Dream Tracker
-
- <!--![Preview](https://via.placeholder.com/800x400/0d1117/00F7FF?text=Educa+Project)-
-
-✨ Academic Performance Tracker-->
-
-💻 [Live Demo](https://future-plan-six.vercel.app)
-<!--!🔗 [Source Code](https://github.com/lakshan-beast/Future-Plan")-->
-
-
----
-
-<!--
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshan-beast&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&v=2" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshan-beast&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&v=2" height="180"/>
-</p>
-
-  <img src="https://streak-stats.demolab.com?user=lakshan-beast&theme=tokyonight&hide_border=true"/> 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=lakshan-beast&theme=radical&hide_border=true&border_radius=6.5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
---->
-
----
-
-<!--## 🐍 Contribution Snake
-
-<!--![Snake animation](https://raw.githubusercontent.com/lakshan-beast/lakshan-beast/output/github-contribution-grid-snake.svg) 
-
-
-## 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/lakshan-beast/lakshan-beast/output/github-contribution-grid-snake.svg) 
-![Snake animation](https://github.com) 
-![Snake animation](https://githubusercontent.com)
-![Snake animation](https://githubusercontent.com)-->
-
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=lakshan-beast&theme=radical&hide_border=true&border_radius=6.5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <!--<a href="https://github.com/lakshan-beast">
-    <img src="https://img.shields.io/badge/X (Twitter)-00acee?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>-->
-  <a href="https://linkedin.com/in/lakshan-beast">
+<div align="left">
+<h2 class="section-heading">🌐 Connect with Me</h2> 
+<p>Let's collaborate and innovate together! You can find my latest production milestones and professional network updates on LinkedIn, or explore my ongoing project deployments through Linktree. I am always open to exciting full-stack opportunities, code reviews, or exchanging ideas about modern frontend engineering trends.</p>
+<a href="https://linkedin.com/in/lakshan-beast">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:lakshansandeepa0305@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
 
----
+</div>
+
+<div align="left">
+  <h2>🚀 GitHub Commits</h2>
+  <p>This section highlights my daily core engineering activity, showcasing the codebases I am currently optimizing. Each commit reflects logical updates, clean component separations, and bug fixes to ongoing systems—showcasing my absolute commitment to writing scalable, production-ready code.</p>
+
+  <img src="https://raw.githubusercontent.com/lakshan-beast/lakshan-beast/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
+  <img src="https://raw.githubusercontent.com/lakshan-beast/lakshan-beast/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
+</div>
+
+<div align="left">
+<h2 class="section-heading"> 💻 Programming Languages </h2>
+<p> As a logical engineer, I leverage a versatile selection of programming languages to translate complex business workflows into robust, efficient software products. These are the core languages I wield to build scalable logic and clean codebases: </p>
+<div align="left">
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
+
+</div>
+</div>
+<div align="left">
+<h2 class="section-heading"> ☁️ Cloud & Database Technologies </h2>
+<p> In the domain of modern cloud integration, I specialize in implementing serverless data layers and real-time backend synchronization engines. Here is a glance at the database and cloud services I utilize to deploy highly-available, zero-latency web applications: </p>
+<div align="left">
+
+[![My Skills](https://skillicons.dev/icons?i=firebase,aws)](https://skillicons.dev)
+
+</div>
+
+</div>
+<div align="left">
+<h2 class="section-heading"> 🔧 Frameworks, Libraries & UI Engines </h2>
+<p> Frameworks and advanced styling architectures form the backbone of my development process, providing the speed and structure required for high-performance apps. I focus on modular component design systems that deliver absolute responsiveness and exceptional user experience across all device breakpoints: </p>
+<div align="left">
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,scss,vite,tailwind)](https://skillicons.dev)
+
+</div>
+</div>
+
+<div align="left">
+<h2 class="section-heading">🛠️ Engineering Toolsets & Environments</h2>
+<p>Writing clean code requires precision toolsets. From local runtimes and modular bundling engines to automated CI/CD deployment pipelines, here are the core development tools and environments I use to ship enterprise-grade code daily:</p>
+
+  <div align="left">
+
+[![My Skills](https://skillicons.dev/icons?i=npm,git,github,vscode,vite)](https://skillicons.dev)
+
+</div>
+
+</div>
+
+<div align="left">
+<h2 class="section-heading">📊 GitHub Stats</h2>
+<p>Peek into my GitHub stats to see how I balance modular code architecture, production debugging, and collaborative version control matrices! Welcome to the real-time timeline of my digital engineering journey.</p>
+ <table align="center" width="100%" height="100%" >
+    <tr>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakshan-beast&theme=github_dark" alt="Zane's GitHub Stats"/></td>   
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshan-beast&theme=merko" alt="Zane's Contribution Streak"/></td>
+    </tr>
+ </table>
+
+ <table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lakshan-beast&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lakshan-beast&theme=github_dark&utcOffset=10" alt="Zane's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lakshan-beast&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lakshan-beast&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+    </tr>
+ </table>
+</div>
 
 ## 💬 Dev Quote
 
@@ -163,10 +99,8 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
----
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=700&height=70&duration=6000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!+;+Clean+code+always+looks+like+it+was+written+by+someone+who+cares.+;+Engineering+modern+web+applications+with+absolute+precision.+;+Transforming+complex+business+logic+into+seamless+user+experiences.+;+Talk+is+cheap.+Show+me+the+code:)">
+</h3>
 
-<h3 align="center">⭐ Star your favorite repositories and support!</h3>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=200&section=footer&text=Design%20is%20not%20just%20what%20it%20looks%20like%20—%20it's%20how%20it%20works.&fontSize=30&fontColor=ffffff&animation=fadeUp"/>
+<p align="center">⭐ Star your favorite repositories and support!</p>
