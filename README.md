@@ -1,8 +1,5 @@
 
-<h3 align="center">
-  <img
-    src="https://herokuapp.com" alt="Animation typing"/>
-</h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer+%7C+SaaS+Engineer;UI%2FUX+Designer;Creative+Thinker;Building+Modern+Web+Apps;Specializing+in+React.js+%26+SCSS+Design;Building+Production-Grade+Web+Apps;Always+Learning+New+Things" alt="Animation typing"/></h3>
 
 <img
   src="https://komarev.com/ghpvc/?username=lakshan-beast&style=for-the-badge"
