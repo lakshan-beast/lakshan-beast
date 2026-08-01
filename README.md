@@ -94,14 +94,15 @@ I deeply integrate modern AI engines into my engineering lifecycle to maximize d
 ### 🛡️ Security, Networks & Foundations (In Progress)
 To evolve as a robust, T-Shaped Engineer, I am continuously training my core technical knowledge well beyond frontend UI architectures:
 
-* Cisco Networking Academy — Network topologies, data packet routing, and core infrastructure protocols.
-* Google Digital Garage — High-level cloud ecosystem logic and scalable system architectures.
-* Web Application Security — Vulnerability hunting, secure state flows, and data encryption practices.
+• AI & Intelligence Foundations — OpenAI Academy (Prompt Engineering & Foundations)
+• Infrastructure & Cloud Computing — Microsoft Certified: Azure Fundamentals (AZ-900)
+• Security & Architecture — Cisco Academy (Junior Cybersecurity Analyst Career Path)
+• Information Security & Privacy — IBM SkillsBuild (Cybersecurity Fundamentals)
+• Global Communication Readiness — British Council (Workplace Proficiency Certificate)
 
 ### 🛠️ Advanced Engineering Toolsets
 Writing enterprise-grade code requires precise modular isolated development and comprehensive testing pipelines:
 
-* Storybook — Component-driven design, visual isolation development, and atomic dynamic documentation.
 * Cypress Testing — End-to-End automation testing, stable interface checks, and user flow tracking.
 
 ### ☁️ Cloud & Core Engineering Tech Stack
