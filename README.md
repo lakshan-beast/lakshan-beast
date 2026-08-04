@@ -1,5 +1,5 @@
 
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer+%7C+SaaS+Engineer;UI%2FUX+Designer;Creative+Thinker;Building+Modern+Web+Apps;Specializing+in+React.js+%26+SCSS+Design;Building+Production-Grade+Web+Apps;Always+Learning+New+Things" alt="Animation typing"/></h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer+%7C+SaaS+Engineer;UI%2FUX+Designer;Creative+Thinker;Building+Modern+Web+Apps;Specializing+in+React.js+%26+TaildwindCSS+Design;Building+Production-Grade+Web+Apps;Always+Learning+New+Things" alt="Animation typing"/></h3>
 
 <img
   src="https://komarev.com/ghpvc/?username=lakshan-beast&style=for-the-badge"
@@ -81,7 +81,7 @@
     device breakpoints:
   </p>
 
- [![MySkills](https://skillicons.dev/icons?i=react,nextjs,scss,vite,tailwind)](https://skillicons.dev)
+ [![MySkills](https://skillicons.dev/icons?i=react,scss,vite,tailwind)](https://skillicons.dev)
 </div>
 
 ### 🤖 AI & Productivity Workflows
