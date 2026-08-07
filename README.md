@@ -1,5 +1,4 @@
-
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer+%7C+SaaS+Engineer;UI%2FUX+Designer;Creative+Thinker;Building+Modern+Web+Apps;Specializing+in+React.js+%26+TaildwindCSS+Design;Building+Production-Grade+Web+Apps;Always+Learning+New+Things" alt="Animation typing"/></h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer+%7C+SaaS+Engineer;UI%2FUX+Designer;Creative+Thinker;Building+Modern+Web+Apps;Specializing+in+React.js+%26+TailwindCSS+Design;Building+Production-Grade+Web+Apps;Always+Learning+New+Things" alt="Animation typing"/></h3>
 
 <img
   src="https://komarev.com/ghpvc/?username=lakshan-beast&style=for-the-badge"
@@ -115,6 +114,7 @@ The foundational technologies, frameworks, and database engines I wield daily to
 * Frameworks & UI: React.js, Next.js, Vite, Tailwind CSS
 * Cloud & DevOps: Amazon Web Services (AWS), Google Firebase, Vercel, NPM, Git, GitHub, VS Code
 
+
 <div align="left">
   <h2 class="section-heading">📊 GitHub Stats</h2>
   <p>
@@ -124,7 +124,7 @@ The foundational technologies, frameworks, and database engines I wield daily to
   </p>
 
   <img
-    style="border: 'none', align: 'center'"
+    style="border: 'none'; margin: '0 auto';" 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakshan-beast&theme=github_dark"
     alt="Zane's GitHub Stats" />
   <img
@@ -158,7 +158,7 @@ The foundational technologies, frameworks, and database engines I wield daily to
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Qoutes"/>
 </p>
 
-<h3 style="align: 'center', padding: '0 30px', margin: '0 auto'">
+<h3 style="align: 'center'; padding: '0 30px'; margin: '0 auto'">
   <img
     src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=700&height=70&duration=6000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!+;+Clean+code+always+looks+like+it+was+written+by+someone+who+cares.+;+Engineering+modern+web+applications+with+absolute+precision.+;+Transforming+complex+business+logic+into+seamless+user+experiences.+;+Talk+is+cheap.+Show+me+the+code:)" alt="Thanks ">
 </h3>
