@@ -41,7 +41,7 @@
   </a>
 </div>
 
-<div align="left">
+<!-- <div align="left">
   <h2>🚀 GitHub Commits</h2>
   <p>
     This section highlights my daily core engineering activity, showcasing the
@@ -56,7 +56,7 @@
   <img
     src="https://raw.githubusercontent.com/lakshan-beast/lakshan-beast/output/github-contribution-grid-snake.svg#gh-light-mode-only"
     alt="GitHub Contribution Grid Snake Animation Light Mode" />
-</div>
+</div> -->
 
 <div align="left">  
   <h2 class="section-heading">💻 Programming Languages</h2>
