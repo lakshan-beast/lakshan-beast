@@ -59,7 +59,7 @@
     alt="GitHub Contribution Grid Snake Animation Light Mode" />
 </div>
 
-<div align="left">
+<div align="left">  
   <h2 class="section-heading">💻 Programming Languages</h2>
   <p>
     As a logical engineer, I leverage a versatile selection of programming
@@ -67,6 +67,9 @@
     software products. These are the core languages I wield to build scalable
     logic and clean codebases:
   </p>
+
+  <!-- W3Schools Profile Badge -->
+[![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white)](https://www.w3profile.com/BL4CKWOLF/)
 
  [![MySkills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
 </div>
