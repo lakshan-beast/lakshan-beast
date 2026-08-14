@@ -49,7 +49,7 @@
     clean component separations, and bug fixes to ongoing systems—showcasing my
     absolute commitment to writing scalable, production-ready code.
   </p>
-
+    
   <img
     src="https://raw.githubusercontent.com/lakshan-beast/lakshan-beast/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"
     alt="GitHub Contribution Grid Snake Animation Dark Mode" />
@@ -159,7 +159,7 @@ The foundational technologies, frameworks, and database engines I wield daily to
 </p>
 
 <h3 style="align: 'center'; padding: '0 30px'; margin: '0 auto'">
-  <img
+   <img
     src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=700&height=70&duration=6000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!+;+Clean+code+always+looks+like+it+was+written+by+someone+who+cares.+;+Engineering+modern+web+applications+with+absolute+precision.+;+Transforming+complex+business+logic+into+seamless+user+experiences.+;+Talk+is+cheap.+Show+me+the+code:)" alt="Thanks ">
 </h3>
 <p align="center">⭐️ Star your favorite repositories and support!</p>
